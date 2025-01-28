@@ -3,6 +3,8 @@
 This repo goes along with a Substack post that explores using
 `DuckDB` with `JSON` files in `S3`.
 
+https://dataengineeringcentral.substack.com/p/duckdb-processing-remote-s3-json
+
 
 #### To build and deploy the Docker image to assist with DuckDB Dev ...
 ```
